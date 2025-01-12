@@ -1,0 +1,208 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* headerrrrr */
+.header-c {
+    text-align: center;
+}
+.header-p-color {
+    color: #6941C6;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.headerbackground {
+    background-color: #E4EBFF;
+    margin-top: 120px;
+    margin-left: 158px;
+    padding-top: 162px;
+    padding-left: 162px;
+    max-width: 1604px;
+    width: 100%;
+}
+.headercontent {
+    max-width: 1280px;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding-top: 96px;
+}
+.headerh1textcolor {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 12px;
+}
+.h-p-color {
+    color: #535862;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-top: 32px;
+}
+/* end header */
+/* main */
+.mainbackgroundcolor {
+    max-width: 1280px;
+    width: 100%;
+    padding-top: 96px;
+    background-color: #FFFFFF;
+}
+.background {
+    background-color: #E4EBFF;
+    padding-right: 162px;
+    padding-left: 162px;
+    padding-bottom: 96px;
+    margin-left: 158px;
+    max-width: 1604px;
+    width: 100%;
+}
+.logolocation {
+    /* margin-top: 89px; */
+    margin-left: 32px;
+    margin-bottom: 20px;
+}
+.main-first-div-text-color {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    color: #181D27;
+    margin-left: 32px;
+    font-style: normal;
+    vertical-align: middle;
+}
+.div-width {
+    max-width: 553px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.main-sec-div-text-color {
+    color: #535862;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 16px;
+    margin-left: 32px;
+    display: inline-block;
+}
+.Check-icon-div {
+    max-width: 553px;
+    width: 100%;
+    margin-top: 32px;
+    margin-left: 32px;
+    padding-left: 16px;
+    display: inline-block;
+}
+.iconlocation {
+    display: inline;
+    vertical-align: middle;
+}
+.plocation {
+    display: inline;
+    vertical-align: middle;
+    padding-left: 16px;
+    color: #535862;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.ppadding {
+    padding-bottom: 20px;
+}
+.firstdivphoto {
+    display: inline-block;
+    vertical-align: middle;
+}
+.imgdivone {
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+}
+/* main secion two */
+.sectiontwodiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+.sectiontwodivtwo {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 553px;
+    width: 100%;
+}
+#sectiontwodivphoto {
+    display: inline-block;
+    vertical-align: middle;
+}
+.sectiontwo {
+    margin-top: 96px;
+}
+
+
+
+/* sectionthree */
+.logolocationthree {
+    margin-left: 32px;
+    margin-bottom: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.div-width-three {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 553px;
+    width: 100%;
+}
+.sectionthree {
+    margin-top: 96px;
+}
+.Check-icon-div-three {
+    max-width: 553px;
+    width: 100%;
+    margin-top: 32px;
+    margin-left: 32px;
+    padding-left: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.iconlocationthree {
+    display: inline;
+    vertical-align: middle;
+}
+.plocationthree {
+    display: inline;
+    vertical-align: middle;
+    padding-left: 16px;
+    color: #535862;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.ppaddingthree {
+    padding-bottom: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.sectionthreemain-cont {
+    display: inline-block;
+    vertical-align: middle;
+}
+.thirddivphoto {
+    display: inline-block;
+    vertical-align: middle;
+}
+.imgdivthree {
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    margin-bottom: 96px;
+}
+/* endmain */
